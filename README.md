@@ -4,6 +4,10 @@
 
 ## Steps
 
+### Clone this repository
+
+Clone this repository to your switch.
+
 ### Write p4 code
 
 Write p4 code in `haha.p4`.
