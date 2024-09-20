@@ -23,9 +23,9 @@ Then you will enter the bf CLI.
 ```shell
 bfshell> ucli
 bf-sde> pm
-bf-sde> port-add -/- 40G NONE
-bf-sde> port-enb -/-
-bf-sde> show # Check the port status
+bf-sde.pm> port-add -/- 40G NONE
+bf-sde.pm> port-enb -/-
+bf-sde.pm> show # Check the port status
 ```
 
 Then **persist** the CLI session and open another terminal (or you may run `all.sh` in `tmux` or `screen`).
